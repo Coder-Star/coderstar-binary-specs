@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.authors = {"CoderStar"=>"1340529758@qq.com"}
   s.homepage = 'https://github.com/Coder-Star/CSJSONToModel'
   s.description = 'CSJSONToModel.'
-  s.source = {:http=>"https://github.com/Coder-Star/ios-binary/raw/main/CSJSONToModel/0.0.1/CSJSONToModel.zip", :sha256=>"aa76538c2abe5e32166a0385adc99614c0ec0034855afa9131deb1bd172e044a"}
+  s.source = {:http=>"https://github.com/Coder-Star/ios-binary/raw/main/CSJSONToModel/0.0.1/CSJSONToModel.zip"}
   s.swift_versions = '5'
 
   s.dependency 'AlertToast', '= 1.3.7'
